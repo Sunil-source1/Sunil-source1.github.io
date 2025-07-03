@@ -13,7 +13,7 @@ Objective:
  I am seeking the vacant teaching role to deliver engaging and inclusive classes and prepare students for the next stage of their learning.
 
 Education:
-Pursuing Master Degree, Computer Science & Application
+Master Degree, Computer Science & Application
  [RGPV University ,Bhopal], [2023-2025]
 
 Graduation, Bachelor of Engineering (B.E)
@@ -46,16 +46,18 @@ Skills:
 Projects:
 #E-commerce Website
 An e-commerce website is an online platform designed to facilitate the buying and selling of products and services over the internet. It serves as a digital storefront where businesses can display their products, and customers can browse, select, and purchase items from the comfort of their homes.
-Use Technology:- html,css,javascript,python,sql
+Using Technology:- html,css,javascript,python,sql
 
 #School Management Fee System In Excel
 The School Management Fee Web Application is a comprehensive, user-friendly system designed to simplify and automate the process of managing school fees and related financial tasks. This application caters to schools, colleges, and educational institutions by offering a centralized platform to streamline fee collection, tracking, and management, reducing the workload of administrative staff and ensuring transparency in financial operations.
-Use Technology:- Excel
+Using Technology:- Excel
 
 #Take Quiz Online Web Application
 The "Take Quiz Online" application is an interactive and user-friendly platform designed to facilitate online assessments, quizzes, and learning evaluations. It caters to students, educators, and professionals seeking an efficient way to test knowledge, track progress, and improve learning outcomes.
-Use Technology:- html,css,javascript,python,sql, Bootstrap
+Using Technology:- html,css,javascript,python,sql, Bootstrap
 
+#Quiz Host Like KBC
+Using Technology:- Ms Power Point
 
 Languages:
 - [Hindi] (Native language)
